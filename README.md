@@ -1,2 +1,2 @@
 # Study
-Study projects protfiolio
+The Odin Project landing page showcase
